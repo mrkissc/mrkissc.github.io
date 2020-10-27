@@ -1,8 +1,10 @@
-### mrkissc的第一发博客！
-
-| 1    | 2    | 3    |
-| ---- | ---- | ---- |
-| 4    | 5    | 6    |
-| 7    | 8    | 9    |
-
-![](https://www.hentaishe.net/wp-content/uploads/2020/10/20201027104041-5f97f9292924e.jpg)
+##今天学习了Markdown
+MarkDown是一种超文本语言,今天我第一次学习了它
+`hello markdown!`
+接下来我们还会学习
+1.github的框架命令
+1.hexo框架
+1.hexo更换主题
+>>用命令行敲命令是一种**Geek**行为,我觉得还挺有趣的。
+有点意思,下面这张gif可以形容我的心情:
+![](https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif)
